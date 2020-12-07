@@ -30,3 +30,4 @@ group :test do
 end
 
 gem 'haml-rails', '~> 2.0'
+gem 'font-awesome-sass', '~> 5.15.1'
